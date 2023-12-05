@@ -1,6 +1,6 @@
-### Hi Welcome, i'm YUNA BAE 👋
+### Hi Welcome, i'm Seung Ho Lee 👋
 
-#### AI Researcher / Data Engineering
+#### Robot SW Engineer
 Developers who create beneficial social values   
 A developer who thinks, researches, creates, and connects to practical realization by web
 
